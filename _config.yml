@@ -1,3 +1,5 @@
-theme: jekyll-theme-cayman
 title: Eric Teeman
 description: TD Process Engineer at Intel
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-cayman
