@@ -1,123 +1,53 @@
 ---
-layout: default
+layout: new
+title: Eric Teeman, PhD
+description: TD Process Engineer at Intel
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+![Portrait](assets/images/portrait.jpeg)
 
-[Link to another page](./another-page.html).
+## About Me
 
-There should be whitespace between paragraphs.
+I am a recent graduate from the Materials Science & Engineering Department at the University of Washington, Seattle and former member of the Krishnan Group. I also worked in collaboration with Dr. James Evans of Pacific Northwest National Lab. My research focused on nanoparticle synthesis, surface conjugation, cell interactions, and fate in vitro. The goal of my research was the safer preparation and use of nanomaterials in biomedical applications as more and more interesting techniques and treatments are developed.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+## Links
 
-# Header 1
+### Education
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+<!--![UW](assets/images/uw-logo.png)-->
 
-## Header 2
+[University of Washington](http://www.washington.edu/)
 
-> This is a blockquote following a header.
+> [Materials Science & Engineering Department](https://mse.washington.edu/)
 >
-> When something is important enough, you do it even if the odds are not in your favor.
+> [Molecular Engineering & Sciences Institute](http://www.moles.washington.edu/)
 
-### Header 3
+[Rose-Hulman Institute of Technology](http://www.rose-hulman.edu/)
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+> [Chemistry & Biochemistry Department](http://www.rose-hulman.edu/academics/academic-departments/chemistry-and-biochemistry/index.html)
+>
+> [Physics & Optical Engineering Department](http://www.rose-hulman.edu/academics/academic-departments/physics-and-optical-engineering/index.html)
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+### Research
 
-#### Header 4
+[Google Scholar](https://scholar.google.com/citations?user=HhboDuwAAAAJ&hl=en&oi=ao)
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+[ResearchGate](https://www.researchgate.net/profile/Eric_Teeman)
 
-##### Header 5
+[ORCiD](https://orcid.org/0000-0002-0488-1445)
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+### Professional Societies
 
-###### Header 6
+[Alpha Chi Sigma](https://www.alphachisigma.org/)
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+[American Chemical Society](https://www.acs.org/content/acs/en.html)
 
-### There's a horizontal rule below this.
+### Useful Websites
 
-* * *
+[Fiji is just ImageJ](https://fiji.sc/)
 
-### Here is an unordered list:
+[RStudio](https://www.rstudio.com/)
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+[Overleaf](https://www.overleaf.com/)
 
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+[Jupyter Notebook](http://jupyter.org/)
