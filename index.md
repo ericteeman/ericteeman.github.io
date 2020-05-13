@@ -1,10 +1,6 @@
 ---
 layout: default
-title: Eric Teeman, PhD
-description: TD Process Engineer at Intel
 ---
-
-![Portrait](assets/images/portrait.jpeg)
 
 ## About Me
 
