@@ -10,7 +10,7 @@ I am a recent graduate from the Materials Science & Engineering Department at th
 
 ### Education
 
-<!--![UW](assets/images/uw-logo.png)-->
+<!--![UW](assets/img/uw-logo.png)-->
 
 [University of Washington](http://www.washington.edu/)
 
