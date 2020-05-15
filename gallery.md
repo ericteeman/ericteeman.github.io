@@ -8,7 +8,7 @@ gallery:
   - url: /assets/images/gallery/uw-courtyard.jpg
     image_path: /assets/images/gallery/uw-courtyard.jpg
     title: "UW Courtyard"
-  - url: /assets/images/gallery/depection-pass.jpg
+  - url: /assets/images/gallery/deception-pass.jpg
     image_path: /assets/images/gallery/deception-pass.jpg
     title: "Deception Pass"
   - url: /assets/images/gallery/mount-si.jpg
