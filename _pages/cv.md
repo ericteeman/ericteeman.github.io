@@ -1,7 +1,8 @@
 ---
-layout: default
-title: Eric Teeman, PhD
-description: TD Process Engineer at Intel
+title: "CV"
+layout: single
+permalink: /cv/
+author_profile: true
 ---
 
 ## Professional Experience
