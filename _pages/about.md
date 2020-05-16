@@ -2,8 +2,7 @@
 title: "About"
 layout: single
 permalink: /about/
-author_profile: true
-comments: true
+author_profile: false
 ---
 
 ## About Me

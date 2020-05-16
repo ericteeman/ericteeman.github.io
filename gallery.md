@@ -2,8 +2,7 @@
 title: "Gallery"
 layout: single
 permalink: /gallery/
-author_profile: true
-comments: true
+author_profile: false
 gallery:
   - url: /assets/images/gallery/uw-courtyard.jpg
     image_path: /assets/images/gallery/uw-courtyard.jpg
