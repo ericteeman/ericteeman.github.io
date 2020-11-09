@@ -8,7 +8,7 @@ classes: wide
 
 ### Thesis
 
-> [Intracellular dynamics of superparamagnetic iron oxide nanoparticles for magnetic particle imaging](assets/pdfs/thesis.pdf)
+> [Intracellular dynamics of superparamagnetic iron oxide nanoparticles for magnetic particle imaging](~/assets/pdfs/thesis.pdf)
 
 ### Publications
 
