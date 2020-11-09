@@ -9,7 +9,7 @@ author_profile: true
 
 I am a Process Engineer in the Lithography group at Intel Corporation in Hillsboro, OR. I am the primary owner of critical development and production equipment, and I employ data driven and programatic solutions to drive improvements to yield and throughput.
 
-I receveived my doctorate from the Materials Science & Engineering Department at the University of Washington, Seattle and was a member of the Krishnan Research Group. I also worked in collaboration with Dr. James Evans of Pacific Northwest National Lab. My research focused on nanoparticle synthesis, surface conjugation, cell interactions, and material fate **in vitro**. The goal of my research was the safer preparation and use of nanomaterials in biomedical applications as more and more interesting techniques and treatments are developed.
+I receveived my doctorate from the Materials Science & Engineering Department at the University of Washington, Seattle and was a member of the Krishnan Research Group. I also worked in collaboration with Dr. James Evans of Pacific Northwest National Lab. My research focused on nanoparticle synthesis, surface conjugation, cell interactions, and material fate *in vitro*. The goal of my research was the safer preparation and use of nanomaterials in biomedical applications as more and more interesting techniques and treatments are developed.
 
 ## Links
 
