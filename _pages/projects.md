@@ -20,7 +20,7 @@ classes: wide
 
 > Carolyn Shasha, Eric Teeman, Kannan M. Krishnan, Patryk Szwargulski, Tobias Knopp & Martin Möddel. [Discriminating nanoparticle core size using multi-contrast MPI.](https://ericteeman.com/assets/pdfs/Shasha_et_al._-_2019_-_Discriminating_nanoparticle_core_size_using_multi-contrast_MPI.pdf) *Phys. Med. Biol.* **64**, 074001 (2019).
 
-> Ulrich M. Engelmann, Carolyn Shasha, Eric Teeman, Ioana Slabu & Kannan M. Krishnan. [Predicting size-dependent heating efficiency of magnetic nanoparticles from experiment and stochastic Néel-Brown Langevin simulation.](https://ericteeman.com/assets/pdfs/Engelmann_et_al._-_2019_-_Predicting_size-dependent_heating_efficiency_of_magnetic_nanoparticles_from_experiment_and_stochastic_Néel-Br.pdf) *J. Magn. Magn. Mater.* **471**, 450–456 (2019).
+> Ulrich M. Engelmann, Carolyn Shasha, Eric Teeman, Ioana Slabu & Kannan M. Krishnan. [Predicting size-dependent heating efficiency of magnetic nanoparticles from experiment and stochastic Néel-Brown Langevin simulation.](https://ericteeman.com/assets/pdfs/Engelmann_et_al_-_2019_-_Predicting_size-dependent_heating_efficiency_of_magnetic_nanoparticles_from_experiment_and_stochastic_Néel-Br.pdf) *J. Magn. Magn. Mater.* **471**, 450–456 (2019).
 
 > Hamed Arami, Eric Teeman, Alyssa Troksa, Haydin Bradshaw, Katayoun Saatchi, Asahi Tomitaka, Sanjiv Sam Gambhir, Urs O. Häfeli, Denny Liggitt & Kannan M. Krishnan. [Tomographic magnetic particle imaging of cancer targeted nanoparticles.](https://ericteeman.com/assets/pdfs/Arami_et_al._-_2017_-_Tomographic_magnetic_particle_imaging_of_cancer_targeted_nanoparticles.pdf) *Nanoscale* **9**, 18723–18730 (2017).
 
