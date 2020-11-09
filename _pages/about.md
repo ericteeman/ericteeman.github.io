@@ -17,11 +17,11 @@ I receveived my doctorate from the Materials Science & Engineering Department at
 
 <!--![UW](assets/img/uw-logo.png)-->
 
-[University of Washington](http://www.washington.edu/)
+> [University of Washington](http://www.washington.edu/)
 
-> [Materials Science & Engineering Department](https://mse.washington.edu/)
->
-> [Molecular Engineering & Sciences Institute](http://www.moles.washington.edu/)
+>> [Materials Science & Engineering Department](https://mse.washington.edu/)
+
+>> [Molecular Engineering & Sciences Institute](http://www.moles.washington.edu/)
 
 [Rose-Hulman Institute of Technology](http://www.rose-hulman.edu/)
 
