@@ -1,6 +1,6 @@
 ---
 title: "About"
-layout: splash
+layout: home
 permalink: /about/
 author_profile: true
 classes: wide
