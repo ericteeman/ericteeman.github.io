@@ -8,7 +8,7 @@ classes: wide
 
 ## Professional Experience
 
-**TD Process Engineer**
+**Lithography Process Engineer**
 
 Sep 2019 - *Present* \| [Intel](http://intel.com), Hillsboro, OR
 
