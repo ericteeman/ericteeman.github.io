@@ -2,7 +2,7 @@
 title: "Gallery"
 layout: single
 permalink: /gallery/
-classes: wide
+class: full
 author_profile: false
 gallery:
   - url: /assets/images/gallery/uw-courtyard.jpg
