@@ -12,12 +12,14 @@ classes: wide
 
 Sep 2019 - *Present* \| [Intel](http://intel.com), Hillsboro, OR
 
+
 **Cell Engineering Intern**
 
 Jun 2013 - Aug 2013 \| [EnerDel](http://enerdel.com), Indianapolis, IN
 
 * Characterized and developed electrochemical testing protocol for Lithium Titanate Oxide for potential use in Li-ion batteries
 * Analysis methods included SEM, ICP-MS, XRD, FTIR, and Optical microscopy
+
 
 **Lab Technician**
 
@@ -26,12 +28,14 @@ Aug 2011 - May 2013 \| [Rose-Hulman Institute of Technology](http://www.rose-hul
 * Prepared undergraduate labs and instruments in the Chemistry Department
 * Calibrated and maintained all departmental instrumentation. A subset of which include NMR, GC-MS, LC-MS, FTIR, Raman, CV, CE
 
+
 **Research and Development Intern**
 
 Jun 2011 - Dec 2011 \| [Metals and Additives](http://www.addendacorporation.com/), Brazil, IN
 
 * Synthesized Molybdenum based compounds for use as fire preventative additives in polymers
 * Characterized Basic Zinc Molybdate Complex and collaborated with Chemical Engineering group to suggest improvements to full-scale production line
+
 
 
 ## Education
@@ -43,15 +47,18 @@ Sep 2013 - Jun 2019 \| [University of Washington](http://washington.edu), Seattl
 * Addt'l. Degree Title: Nanotechnology & Molecular Engineering
 * Thesis: Intracellular dynamics of superparamagnetic iron oxide nanoparticles for magnetic particle imaging
 
+
 **Master of Science in Materials Science & Engineering**
 
 Sep 2013 - Mar 2016 \| [University of Washington](http://washington.edu), Seattle, WA
+
 
 **Bachelor of Science in Chemistry** (Cum Laude)
 
 Aug 2009 - May 2013 \| [Rose-Hulman Institute of Technology](https://www.rose-hulman.edu/), Terre Haute, IN
 
 * Minor: Solid State Physics/Materials Science
+
 
 
 ## Research Experience
@@ -66,6 +73,7 @@ Advisor: Prof. Kannan Krishnan
 * Exposed iron oxide nanoparticles to cell environments and imaged by TEM to extract quantitative nanoparticle size and spatial distributions
 * Lab Safety Manager coordinating and training in EH&S policies and practices in the Krishnan Lab
 
+
 **Independent Undergraduate Researcher**
 
 Jan 2012 - May 2013 \| Departments of Chemistry and Physics, Rose-Hulman Institute of Technology, Terre Haute, IN
@@ -75,11 +83,13 @@ Advisors: Prof. Scott Kirkpatrick & Prof. Daniel Morris
 * Utilized clean room environments and equipment in the preparation and characterization of samples
 * Primary characterization of carbon nanotubes included SEM and Raman spectroscopy
 
+
 **Interdisciplinary Research Collaborative**
 
 Jun 2012 - Sep 2012 \| Departments of Chemistry and Physics, Rose-Hulman Institute of Technology, Terre Haute, IN
 
 * Full-time continuation of undergraduate research during summer months
+
 
 **Undergraduate Research Assistant**
 
@@ -87,6 +97,7 @@ Aug 2011 - May 2012 \| Rose-Hulman Ventures, Terre Haute, IN
 
 Advisor: Prof. Rebecca DeVasher
 * Collaboration with the Indiana Soybean Alliance with the goal of developing an environmentally friendly marker ink based on soybean oil using green chemistry concepts and methods
+
 
 
 ## Teaching Experience
@@ -120,6 +131,7 @@ Departments of Materials Science & Engineering and Physics, Univeristy of Washin
 * [Integrated Junior Lab I](https://www.washington.edu/students/crscat/mse.html#mse311) (Autumn 2013)
 
 
+
 ## Skills
 
 **Instrumentation**
@@ -141,6 +153,7 @@ Departments of Materials Science & Engineering and Physics, Univeristy of Washin
 * Cyclic voltammetry
 * Plasma-enhanced chemical vapor deposition
 
+
 **Programming Languages**
 
 * C#
@@ -148,6 +161,7 @@ Departments of Materials Science & Engineering and Physics, Univeristy of Washin
 * Python
 * Maple
 * Mathematica
+
 
 **Markup Languages**
 
@@ -173,6 +187,7 @@ Sep 2014 - Jun 2019 \| [UW Graduate & Professional Student Senate](http://depts.
 * Senior member helping train and guide committee discussions final last two years
 
 Jan 2010 - May 2013 \| [Alpha Chi Sigma](https://www.alphachisigma.org/), *Iota Chapter*
+
 
 
 ## Coursework
