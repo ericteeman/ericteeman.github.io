@@ -47,7 +47,6 @@ Jun 2011 - Dec 2011 \| [Metals and Additives](http://www.addendacorporation.com/
 Sep 2013 - Jun 2019 \| [University of Washington](http://washington.edu), Seattle, WA
 
 * Addt'l. Degree Title: Nanotechnology & Molecular Engineering
-
 * Thesis: Intracellular dynamics of superparamagnetic iron oxide nanoparticles for magnetic particle imaging
 
 ---
@@ -71,7 +70,6 @@ Aug 2009 - May 2013 \| [Rose-Hulman Institute of Technology](https://www.rose-hu
 Jan 2014 - Jun 2019 \| Department of Materials Science & Engineering, Univeristy of Washington, Seattle, WA
 
 Advisor: Prof. Kannan Krishnan
-
 * Studied the in vitro magnetic dynamics of iron oxide nanoparticles designed for use in magnetic particle imaging
 * Synthesized, coated, and characterized iron oxide nanoparticles with tailored size, size distribution, and surface functionalization
 * Exposed iron oxide nanoparticles to cell environments and imaged by TEM to extract quantitative nanoparticle size and spatial distributions
@@ -84,7 +82,6 @@ Advisor: Prof. Kannan Krishnan
 Jan 2012 - May 2013 \| Departments of Chemistry and Physics, Rose-Hulman Institute of Technology, Terre Haute, IN
 
 Advisors: Prof. Scott Kirkpatrick & Prof. Daniel Morris
-
 * Studied plasma-enhanced chemical vapor deposition synthesis of carbon nanotubes for use in microfluidic detection of oxidative damage to DNA
 * Utilized clean room environments and equipment in the preparation and characterization of samples
 * Primary characterization of carbon nanotubes included SEM and Raman spectroscopy
@@ -102,8 +99,8 @@ Jun 2012 - Sep 2012 \| Departments of Chemistry and Physics, Rose-Hulman Institu
 **Undergraduate Research Assistant**
 
 Aug 2011 - May 2012 \| Rose-Hulman Ventures, Terre Haute, IN
-Advisor: Prof. Rebecca DeVasher
 
+Advisor: Prof. Rebecca DeVasher
 * Collaboration with the Indiana Soybean Alliance with the goal of developing an environmentally friendly marker ink based on soybean oil using green chemistry concepts and methods
 
 ## Teaching Experience
@@ -138,7 +135,6 @@ Departments of Materials Science & Engineering and Physics, Univeristy of Washin
 ## Skills
 
 **Instrumentation**
-
 * Electron microscopy (scanning, transmission)
 * Energy-dispersive X-ray spectroscopy
 * High pressure freezing and freeze substitution
@@ -159,7 +155,7 @@ Departments of Materials Science & Engineering and Physics, Univeristy of Washin
 ---
 
 **Programming Languages**
-
+* C#
 * R
 * Python
 * Maple
@@ -171,24 +167,20 @@ Departments of Materials Science & Engineering and Physics, Univeristy of Washin
 * LaTeX
 * Markdown
 
+---
 
 ## Awards/Honors
-
-2013 - 2016 \| [ARCS Foundation Fellow](http://www.seattlearcsfoundation.org/)
-
-2011 - 2013 \| Rose-Hulman Dean's List
-
-2009 - 2013 \| Rose-Hulman Merit Scholar
+* 2013 - 2016 \| [ARCS Foundation Fellow](http://www.seattlearcsfoundation.org/)
+* 2011 - 2013 \| Rose-Hulman Dean's List
+* 2009 - 2013 \| Rose-Hulman Merit Scholar
 
 
 ## Professional Associations
 
 May 2011 - *Present* \| [Amerian Chemical Society](https://www.acs.org)
-
 Sep 2014 - Jun 2019 \| [UW Graduate & Professional Student Senate](http://depts.washington.edu/gpss/)
 * Active member of the Travel Grants Committee providing funding to students to attend and present at research conferences
 * Senior member helping train and guide committee discussions final last two years
-
 Jan 2010 - May 2013 \| [Alpha Chi Sigma](https://www.alphachisigma.org/), *Iota Chapter*
 
 ## Coursework
@@ -196,7 +188,6 @@ Jan 2010 - May 2013 \| [Alpha Chi Sigma](https://www.alphachisigma.org/), *Iota 
 ### Graduate
 
 **Materials Science/Semiconductors**
-
 * [Bonding, Crystallography, and Symmetry-Related Properties of Materials](https://www.washington.edu/students/crscat/mse.html#mse510)
 * [Defects in Materials](https://www.washington.edu/students/crscat/mse.html#mse541)
 * [Kinetics and Phase Transformations](https://www.washington.edu/students/crscat/mse.html#mse525)
@@ -204,7 +195,6 @@ Jan 2010 - May 2013 \| [Alpha Chi Sigma](https://www.alphachisigma.org/), *Iota 
 * [Introduction to MEMS](https://www.washington.edu/students/crscat/ee.html#ee504)
 
 **Instrumentation Specific**
-
 * [Transmission Electron Microscopy]( https://www.washington.edu/students/crscat/mse.html#mse512)
 * [Surface Analysis](https://www.washington.edu/students/crscat/bioeng.html#bioen592)
 
@@ -213,7 +203,6 @@ Jan 2010 - May 2013 \| [Alpha Chi Sigma](https://www.alphachisigma.org/), *Iota 
 ### Undergraduate
 
 **Chemistry**
-
 * Organic Chemistry
 * Analytical Chemistry
 * Physical Chemistry
@@ -221,7 +210,6 @@ Jan 2010 - May 2013 \| [Alpha Chi Sigma](https://www.alphachisigma.org/), *Iota 
 * Organic Structure Determination
 
 **Materials Science/Semiconductors**
-
 * Materials Science and Engineering
 * Semiconductor Materials and Applications
 * Semiconductor Devices and Fabrication
@@ -229,7 +217,6 @@ Jan 2010 - May 2013 \| [Alpha Chi Sigma](https://www.alphachisigma.org/), *Iota 
 * Microsensors
 
 **Instrumentation Specific**
-
 * GC/MS
 * FTIR
 * Raman
@@ -237,6 +224,5 @@ Jan 2010 - May 2013 \| [Alpha Chi Sigma](https://www.alphachisigma.org/), *Iota 
 
 
 **Software Development**
-
 * Introduction to Software Development
 
