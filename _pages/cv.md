@@ -8,12 +8,12 @@ classes: wide
 
 ## Professional Experience
 
-**LTD Process Engineer, Lithography**
+> **LTD Process Engineer, Lithography**
 
 Sep 2019 - *Present* \| [Intel](http://intel.com), Hillsboro, OR
 
 
-**Cell Engineering Intern**
+> **Cell Engineering Intern**
 
 Jun 2013 - Aug 2013 \| [EnerDel](http://enerdel.com), Indianapolis, IN
 
@@ -21,7 +21,7 @@ Jun 2013 - Aug 2013 \| [EnerDel](http://enerdel.com), Indianapolis, IN
 * Analysis methods included SEM, ICP-MS, XRD, FTIR, and Optical microscopy
 
 
-**Lab Technician**
+> **Lab Technician**
 
 Aug 2011 - May 2013 \| [Rose-Hulman Institute of Technology](http://www.rose-hulman.edu/academics/academic-departments/chemistry-and-biochemistry/index.html), Terre Haute, IN
 
@@ -29,7 +29,7 @@ Aug 2011 - May 2013 \| [Rose-Hulman Institute of Technology](http://www.rose-hul
 * Calibrated and maintained all departmental instrumentation. A subset of which include NMR, GC-MS, LC-MS, FTIR, Raman, CV, CE
 
 
-**Research and Development Intern**
+> **Research and Development Intern**
 
 Jun 2011 - Dec 2011 \| [Metals and Additives](http://www.addendacorporation.com/), Brazil, IN
 
@@ -40,7 +40,7 @@ Jun 2011 - Dec 2011 \| [Metals and Additives](http://www.addendacorporation.com/
 
 ## Education
 
-**Doctor of Philosophy in Materials Science & Engineering**
+> **Doctor of Philosophy in Materials Science & Engineering**
 
 Sep 2013 - Jun 2019 \| [University of Washington](http://washington.edu), Seattle, WA
 
@@ -48,12 +48,12 @@ Sep 2013 - Jun 2019 \| [University of Washington](http://washington.edu), Seattl
 * Thesis: Intracellular dynamics of superparamagnetic iron oxide nanoparticles for magnetic particle imaging
 
 
-**Master of Science in Materials Science & Engineering**
+> **Master of Science in Materials Science & Engineering**
 
 Sep 2013 - Mar 2016 \| [University of Washington](http://washington.edu), Seattle, WA
 
 
-**Bachelor of Science in Chemistry** (Cum Laude)
+> **Bachelor of Science in Chemistry** (Cum Laude)
 
 Aug 2009 - May 2013 \| [Rose-Hulman Institute of Technology](https://www.rose-hulman.edu/), Terre Haute, IN
 
@@ -63,7 +63,7 @@ Aug 2009 - May 2013 \| [Rose-Hulman Institute of Technology](https://www.rose-hu
 
 ## Research Experience
 
-**Graduate Research Assistant**
+> **Graduate Research Assistant**
 
 Jan 2014 - Jun 2019 \| Department of Materials Science & Engineering, Univeristy of Washington, Seattle, WA
 
@@ -74,7 +74,7 @@ Advisor: Prof. Kannan Krishnan
 * Lab Safety Manager coordinating and training in EH&S policies and practices in the Krishnan Lab
 
 
-**Independent Undergraduate Researcher**
+> **Independent Undergraduate Researcher**
 
 Jan 2012 - May 2013 \| Departments of Chemistry and Physics, Rose-Hulman Institute of Technology, Terre Haute, IN
 
@@ -84,14 +84,14 @@ Advisors: Prof. Scott Kirkpatrick & Prof. Daniel Morris
 * Primary characterization of carbon nanotubes included SEM and Raman spectroscopy
 
 
-**Interdisciplinary Research Collaborative**
+> **Interdisciplinary Research Collaborative**
 
 Jun 2012 - Sep 2012 \| Departments of Chemistry and Physics, Rose-Hulman Institute of Technology, Terre Haute, IN
 
 * Full-time continuation of undergraduate research during summer months
 
 
-**Undergraduate Research Assistant**
+> **Undergraduate Research Assistant**
 
 Aug 2011 - May 2012 \| Rose-Hulman Ventures, Terre Haute, IN
 
@@ -102,7 +102,7 @@ Advisor: Prof. Rebecca DeVasher
 
 ## Teaching Experience
 
-**Graduate Teaching Assistant**
+> **Graduate Teaching Assistant**
 
 Departments of Materials Science & Engineering and Physics, Univeristy of Washington, Seattle, WA
 
@@ -134,7 +134,7 @@ Departments of Materials Science & Engineering and Physics, Univeristy of Washin
 
 ## Skills
 
-**Instrumentation**
+> **Instrumentation**
 
 * Electron microscopy (scanning, transmission)
 * Energy-dispersive X-ray spectroscopy
@@ -154,7 +154,7 @@ Departments of Materials Science & Engineering and Physics, Univeristy of Washin
 * Plasma-enhanced chemical vapor deposition
 
 
-**Programming Languages**
+> **Programming Languages**
 
 * C#
 * R
@@ -163,7 +163,7 @@ Departments of Materials Science & Engineering and Physics, Univeristy of Washin
 * Mathematica
 
 
-**Markup Languages**
+> **Markup Languages**
 
 * LaTeX
 * Markdown
@@ -194,7 +194,7 @@ Jan 2010 - May 2013 \| [Alpha Chi Sigma](https://www.alphachisigma.org/), *Iota 
 
 ### Graduate
 
-**Materials Science/Semiconductors**
+> **Materials Science/Semiconductors**
 
 * [Bonding, Crystallography, and Symmetry-Related Properties of Materials](https://www.washington.edu/students/crscat/mse.html#mse510)
 * [Defects in Materials](https://www.washington.edu/students/crscat/mse.html#mse541)
@@ -202,14 +202,14 @@ Jan 2010 - May 2013 \| [Alpha Chi Sigma](https://www.alphachisigma.org/), *Iota 
 * [Biomaterials/Nanomaterials in Tissue Engineering](https://www.washington.edu/students/crscat/mse.html#mse582)
 * [Introduction to MEMS](https://www.washington.edu/students/crscat/ee.html#ee504)
 
-**Instrumentation Specific**
+> **Instrumentation Specific**
 
 * [Transmission Electron Microscopy]( https://www.washington.edu/students/crscat/mse.html#mse512)
 * [Surface Analysis](https://www.washington.edu/students/crscat/bioeng.html#bioen592)
 
 ### Undergraduate
 
-**Chemistry**
+> **Chemistry**
 
 * Organic Chemistry
 * Analytical Chemistry
@@ -217,7 +217,7 @@ Jan 2010 - May 2013 \| [Alpha Chi Sigma](https://www.alphachisigma.org/), *Iota 
 * Inorganic Chemistry
 * Organic Structure Determination
 
-**Materials Science/Semiconductors**
+> **Materials Science/Semiconductors**
 
 * Materials Science and Engineering
 * Semiconductor Materials and Applications
@@ -225,14 +225,14 @@ Jan 2010 - May 2013 \| [Alpha Chi Sigma](https://www.alphachisigma.org/), *Iota 
 * Introduction to MEMS
 * Microsensors
 
-**Instrumentation Specific**
+> **Instrumentation Specific**
 
 * GC/MS
 * FTIR
 * Raman
 * NMR
 
-**Software Development**
+> **Software Development**
 
 * Introduction to Software Development
 
