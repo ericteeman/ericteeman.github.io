@@ -14,9 +14,9 @@ Sep 2019 - *Present* \| [Intel](http://intel.com), Hillsboro, OR
 
 * Primary tool owner of critical lithography equipment, responsible for qualifying and sustaining tool health and process capabilities
 * Primary owner of lithography process steps, working with various teams to optimize and troubleshoot patterning performance
-* Automation and software developer, creating multiple applications for efficient access to critical hardware and process data 
-* Member of defect focus team that identified and addressed potential yield issues through designed experiments and daily monitoring of critical process parameters, and vendor collaboration to reduce platform defect contributions
-* Work with lithography scanner vendors to design and test hardware changes which help reduce key defect modes and improve yield
+* Automation and software developer, creating multiple applications for efficient access to critical hardware and process data
+* Member of defect focus team that identifies and addresses potential yield issues through designed experiments and daily monitoring of critical process parameters
+* Working with lithography scanner vendors to design and test hardware changes which help reduce key defect modes and improve yield
 
 
 **Cell Engineering Intern**
