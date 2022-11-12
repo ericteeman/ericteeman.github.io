@@ -20,7 +20,7 @@ title                    : "Eric Teeman, PhD"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Eric Teeman, PhD"
-description              : "LTD Process Engineer at Intel"
+description              : "Lithography Process Engineer at Intel"
 url                      : "https://ericteeman.com"
 baseurl                  : # the subpath of your site, e.g. "/about"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "Eric Teeman, PhD"
   avatar           : "/assets/images/portrait.png"
-  bio              : "TD Process Engineer at Intel"
+  bio              : "Lithography Process Engineer at Intel"
   location         : "Portland, OR"
   email            :
   links:
